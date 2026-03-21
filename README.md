@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abdullah' Ammar Rabbaniyyin
+Hi! My name is Abdullah' Ammar Rabbaniyyin
 ====================================================================================================================================================
 
 A dedicated Statistics and Data Science student with a deep interest in data processing for strategic decision-making. Skilled in performing descriptive and inferential analysis, and adept at visualizing complex data into easily understandable information. I am enthusiastic about exploring how data can make a real impact on business efficiency and innovation.
