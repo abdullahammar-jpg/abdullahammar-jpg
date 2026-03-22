@@ -1,4 +1,4 @@
-Hi! My name is Abdullah' Ammar Rabbaniyyin
+Hi!! My name is Abdullah' Ammar Rabbaniyyin
 ====================================================================================================================================================
 
 A dedicated Statistics and Data Science student with a deep interest in data processing for strategic decision-making. Skilled in performing descriptive and inferential analysis, and adept at visualizing complex data into easily understandable information. I am enthusiastic about exploring how data can make a real impact on business efficiency and innovation.
