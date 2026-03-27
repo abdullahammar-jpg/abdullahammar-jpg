@@ -1,4 +1,4 @@
-Hi!! My name is Abdullah' Ammar Rabbaniyyin
+Hi!! I'm Abdullah' Ammar Rabbaniyyin
 ====================================================================================================================================================
 
 A data science enthusiast finding hidden patterns over morning coffee.
