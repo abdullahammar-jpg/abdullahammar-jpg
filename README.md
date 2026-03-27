@@ -22,11 +22,11 @@ A data science enthusiast finding hidden patterns over morning coffee.
   <br/><br/><br/>
 </div>
 
-<h2 align="center"> Stats </h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahammar-jpg&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=abdullahammar-jpg&show_icons=true&theme=react&border_radius=10" />
+  <img width="390" src="https://streak-stats.demolab.com?user=abdullahammar-jpg&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=abdullahammar-jpg&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahammar-jpg&layout=compact&theme=react&border_radius=10" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahammar-jpg&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
