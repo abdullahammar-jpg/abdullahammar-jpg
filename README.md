@@ -3,13 +3,13 @@ Hi!! My name is Abdullah' Ammar Rabbaniyyin
 
 A data science enthusiast finding hidden patterns over morning coffee.
 
-<div align="center"> 
-  <a href="mailto:abdullahammarabbaniyyin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/abdullah-ammar-rabbaniyyin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<div align="center">
+  <a href="mailto:abdullahammarabbaniyyin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/abdullah-ammar-rabbaniyyin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 # 💻 Tech Stack:
