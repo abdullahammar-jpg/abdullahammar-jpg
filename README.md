@@ -33,18 +33,21 @@ A data science enthusiast who enjoys uncovering hidden patterns over a quiet cup
 <div align="center">
 
   # My Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahammar-jpg&show_icons=true&theme=radical&hide_border=true" width="55%" />
-  <br><br>
-  
-  <img src="https://streak-stats.demolab.com?user=abdullahammar-jpg&theme=radical&hide_border=true" width="50%" />
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahammar-jpg&layout=compact&theme=radical&hide_border=true" width="36%" />
-  
-</div>
 
-<div align="center">
+  <!-- Atas (1 gambar) -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahammar-jpg&show_icons=true&theme=radical&hide_border=true" width="55%" />
+  </div>
+
+  <br>
+
+  <!-- Bawah (2 gambar sejajar) -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://streak-stats.demolab.com?user=abdullahammar-jpg&theme=radical&hide_border=true" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahammar-jpg&layout=compact&theme=radical&hide_border=true" width="30%" />
+  </div>
+
+</div>
 
 # My Contributions
 
