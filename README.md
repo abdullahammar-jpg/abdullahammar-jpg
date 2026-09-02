@@ -36,7 +36,7 @@ A data science enthusiast who enjoys uncovering hidden patterns over a quiet cup
 
   <!-- Atas (1 gambar) -->
   <div>
-    <img src="https://github-readme-stats-identity10.vercel.app/api?username=abdullahammar-jpg&show_icons=true&theme=radical&hide_border=true" width="55%" />
+    <img src="github-readme-stats.vercel.app/api?username=abdullahammar-jpg&show_icons=true&theme=radical&hide_border=true" width="55%" />
   </div>
 
   <br>
