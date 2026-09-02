@@ -1,4 +1,4 @@
-<img width="678" height="287" alt="image" src="https://github.com/user-attachments/assets/e69202df-86bc-4288-80cd-eb5b3d6fd44f" />Hi!! I'm Abdullah' Ammar Rabbaniyyin
+Hi!! I'm Abdullah' Ammar Rabbaniyyin
 ====================================================================================================================================================
 
 A data science enthusiast who enjoys uncovering hidden patterns over a quiet cup of morning coffee. Passionate about statistics, machine learning, and the stories numbers can tell. Occasionally, I talk to my code like it understands me, unfortunately, it usually responds with errors.
@@ -36,7 +36,7 @@ A data science enthusiast who enjoys uncovering hidden patterns over a quiet cup
 
   <!-- Atas (1 gambar) -->
   <div>
-    <img src="github-readme-stats.vercel.app/api?username=abdullahammar-jpg&show_icons=true&theme=radical&hide_border=true" width="55%" />
+    <img src="https://github-readme-stats-identity10.vercel.app/api?username=abdullahammar-jpg&show_icons=true&theme=radical&hide_border=true" width="55%" />
   </div>
 
   <br>
