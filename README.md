@@ -71,17 +71,10 @@
 
   # My Stats
 
-  <div>
-    <img src="./profile/stats.svg" width="55%" />
-  </div>
-
-  <br>
-
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://streak-stats.demolab.com?user=abdullahammar-jpg&theme=radical&hide_border=true" width="40%" />
-  </div>
-
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="https://streak-stats.demolab.com?user=abdullahammar-jpg&theme=radical&hide_border=true" height="180" />
+</p>
 
 # My Contributions
 
