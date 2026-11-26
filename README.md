@@ -1,3 +1,5 @@
+</td> <td valign="top" width="38%"> <img src="./profile/coding-cat.gif" width="100%" alt="debugging in progress" /> </td> </tr> </table>
+
 <h1 align="center">
   Hi!, I'm Abdullah' Ammar Rabbaniyyin
 </h1>
@@ -69,7 +71,6 @@
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://streak-stats.demolab.com?user=abdullahammar-jpg&theme=radical&hide_border=true" width="40%" />
-    <img src="./profile/top-langs.svg" width="30%" />
   </div>
 
 </div>
