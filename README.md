@@ -1,5 +1,4 @@
-</td> <td valign="top" width="38%"> <img src="./profile/coding-cat.gif" width="100%" alt="debugging in progress" /> </td> </tr> </table>
-
+<img align="right" width="300" src="./profile/coding-cat.gif" alt="debugging in progress" />
 <h1 align="center">
   Hi!, I'm Abdullah' Ammar Rabbaniyyin
 </h1>
