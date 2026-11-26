@@ -72,8 +72,8 @@
   # My Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="https://streak-stats.demolab.com?user=abdullahammar-jpg&theme=radical&hide_border=true" height="180" />
+  <img src="./profile/stats.svg" width="45.5%" />
+  <img src="https://streak-stats.demolab.com?user=abdullahammar-jpg&theme=radical&hide_border=true" width="48%" />
 </p>
 
 # My Contributions
